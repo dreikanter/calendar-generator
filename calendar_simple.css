@@ -1,0 +1,111 @@
+table.simple_year {
+margin:10mm;
+}
+table.simple_month {
+border-left:1px solid gray;
+}
+th.simple_yeartitle {
+text-align:right;
+color:black;
+background-color:transparent;
+padding-bottom:0.5em;
+border-bottom:1px solid silver;
+}
+th.simple_yeartitle big {
+font-size:200%;
+font-family:Georgia,serif;
+font-weight:normal;
+}
+th.simple_montitle {
+font-size:120%;
+font-family:Georgia,serif;
+font-weight:bold;
+text-align:right;
+color:#009900;
+background-color:#eeffee;
+padding:0.1em 0.4em 0.2em 0.2em;
+border-bottom:1px solid gray;
+border-top:1px solid gray;
+border-right:1px solid gray;
+}
+th.simple_light, th.simple_lightmarked {
+font-size:80%;
+font-family:Verdana,serif;
+font-weight:bold;
+color:gray;
+background-color:#f5f5f5;
+padding:0.2em 0.2em 0.3em 0.2em;
+border-right:1px solid gray;
+border-bottom:1px solid gray;
+}
+th.simple_dark, th.simple_darkmarked {
+font-size:80%;
+font-family:Verdana,serif;
+font-weight:bold;
+text-align:center;
+color:gray;
+background-color:#f5f5f5;
+padding:0.2em 0.2em 0.3em 0.2em;
+border-right:1px solid gray;
+border-bottom:1px solid gray;
+}
+td.simple_light, td.simple_lightmarked {
+font-size:80%;
+font-family:Verdana,serif;
+font-weight:normal;
+text-align:center;
+color:black;
+background-color:transparent;
+padding:0.1em 0.2em 0.3em 0.2em;
+border-right:1px solid gray;
+border-bottom:1px solid gray;
+}
+td.simple_dark, td.simple_darkmarked {
+font-size:80%;
+font-family:Verdana,serif;
+font-weight:normal;
+text-align:center;
+color:black;
+background-color:transparent;
+padding:0.1em 0.2em 0.3em 0.2em;
+border-right:1px solid gray;
+border-bottom:1px solid gray;
+}
+th.simple_darkmarked, th.simple_lightmarked, td.simple_darkmarked, td.simple_lightmarked {
+color:#990000;
+}
+td.simple_today {
+font-size:80%;
+font-family:Verdana,serif;
+font-weight:bold;
+text-align:center;
+color:inherit;
+background-color:transparent;
+padding:0.1em 0.2em 0.3em 0.2em;
+border:1px solid #ee0000;
+border-right:1px solid gray;
+}
+a.simple_datelink {
+text-decoration:underline;
+color:#3333ff;
+background-color:transparent;
+display:block;
+}
+a.simple_titleddatelink {
+color:black;
+background-color:transparent;
+font-weight:bold;
+}
+em.simple_titleddate {
+font-weight:bold;
+font-style:normal ;
+color:#009900;
+background-color:transparent;
+}
+td.simple_monthcell {
+padding-bottom:1em;
+padding-right:1em;
+}
+td.simple_monthlastcell {
+padding-bottom:1em;
+}

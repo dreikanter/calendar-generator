@@ -1,0 +1,103 @@
+table.red_year {
+margin:10mm;
+}
+table.red_month {
+color:white;
+background-color:#fff5f5;
+}
+th.red_yeartitle {
+text-align:right;
+color:black;
+background-color:transparent;
+padding-bottom:0.5em;
+border-bottom:1px solid silver;
+}
+th.red_yeartitle big {
+font-size:200%;
+font-family:Georgia,serif;
+font-weight:normal;
+}
+th.red_montitle {
+font-size:120%;
+font-family:Verdana,serif;
+font-weight:normal;
+text-align:center;
+color:white;
+background-color:#990000;
+padding:0.1em 0.2em 0.2em 0.2em;
+}
+th.red_light, th.red_lightmarked {
+font-size:80%;
+font-family:Verdana,serif;
+font-weight:bold;
+text-align:;
+color:black;
+background-color:transparent;
+padding:0.1em 0.2em 0.1em 0.2em;
+border-bottom:1px solid #990000;
+}
+th.red_dark, th.red_darkmarked {
+font-size:80%;
+font-family:Verdana,serif;
+font-weight:bold;
+text-align:center;
+color:black;
+background-color:transparent;
+padding:0.1em 0.2em 0.1em 0.2em;
+border-bottom:1px solid #990000;
+}
+td.red_light, td.red_lightmarked {
+font-size:80%;
+font-family:Verdana,serif;
+font-weight:normal;
+text-align:center;
+color:black;
+background-color:transparent;
+padding:0.1em 0.2em 0.3em 0.2em;
+}
+td.red_dark, td.red_darkmarked {
+font-size:80%;
+font-family:Verdana,serif;
+font-weight:normal;
+text-align:center;
+color:black;
+background-color:transparent;
+padding:0.1em 0.2em 0.3em 0.2em;
+}
+th.red_darkmarked, th.red_lightmarked, td.red_darkmarked, td.red_lightmarked {
+color:#990000;
+}
+td.red_today {
+font-size:80%;
+font-family:Verdana,serif;
+font-weight:bold;
+text-align:center;
+color:inherit;
+background-color:transparent;
+padding:0.1em 0.2em 0.3em 0.2em;
+border:1px solid #ee0000;
+}
+a.red_datelink {
+text-decoration:underline;
+color:#3333ff;
+background-color:transparent;
+display:block;
+}
+a.red_titleddatelink {
+color:black;
+background-color:transparent;
+font-weight:bold;
+}
+em.red_titleddate {
+font-weight:bold;
+font-style:normal ;
+color:#009900;
+background-color:transparent;
+}
+td.red_monthcell {
+padding-bottom:1em;
+padding-right:1em;
+}
+td.red_monthlastcell {
+padding-bottom:1em;
+}

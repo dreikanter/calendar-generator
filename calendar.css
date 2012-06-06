@@ -1,0 +1,91 @@
+table.cld_year {
+margin:10mm;
+}
+table.cld_month {
+
+}
+th.cld_yeartitle {
+text-align:left;
+color:black;
+background-color:transparent;
+padding-bottom:0.5em;
+}
+th.cld_yeartitle big {
+font-size:200%;
+font-family:Georgia,serif;
+font-weight:normal;
+}
+th.cld_montitle {
+font-size:120%;
+font-family:Georgia,serif;
+font-weight:normal;
+text-align:right;
+color:black;
+background-color:#f7f7f7;
+padding:0.1em 0.2em 0 0.2em;
+}
+th.cld_light, th.cld_lightmarked {
+font-size:80%;
+font-family:Georgia,serif;
+font-weight:bold;
+text-align:;
+color:black;
+background-color:#f7f7f7;
+padding:0.2em 0.2em 0.3em 0.2em;
+}
+th.cld_dark, th.cld_darkmarked {
+font-size:80%;
+font-family:Georgia,serif;
+font-weight:bold;
+text-align:center;
+color:black;
+background-color:#efefef;
+padding:0.1em 0.2em 0.3em 0.2em;
+}
+td.cld_light, td.cld_lightmarked {
+font-size:80%;
+font-family:Georgia,serif;
+font-weight:normal;
+text-align:center;
+color:black;
+background-color:white;
+padding:0.1em 0.2em 0.3em 0.2em;
+}
+td.cld_dark, td.cld_darkmarked {
+font-size:80%;
+font-family:Georgia,serif;
+font-weight:normal;
+text-align:center;
+color:black;
+background-color:#f7f7f7;
+padding:0.1em 0.2em 0.3em 0.2em;
+}
+th.cld_darkmarked, th.cld_lightmarked, td.cld_darkmarked, td.cld_lightmarked {
+color:#990000;
+}
+td.cld_today {
+font-size:80%;
+font-family:Georgia,serif;
+font-weight:bold;
+text-align:center;
+color:black;
+background-color:#ffe1e1;
+padding:0.1em 0.2em 0.3em 0.2em;
+}
+a.cld_datelink {
+text-decoration:underline;
+color:#3333ff;
+background-color:inherit;
+display:block;
+}
+a.cld_titleddatelink {
+color:black;
+background-color:inherit;
+font-weight:bold;
+}
+em.cld_titleddate {
+font-weight:bold;
+font-style:normal ;
+color:#009900;
+background-color:transparent;
+}

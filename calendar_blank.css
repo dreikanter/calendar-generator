@@ -1,0 +1,100 @@
+table.blank_year {
+margin:10mm;
+}
+table.blank_month {
+
+}
+th.blank_yeartitle {
+text-align:right;
+color:black;
+background-color:transparent;
+padding-bottom:0.5em;
+border-bottom:1px solid silver;
+}
+th.blank_yeartitle big {
+font-size:200%;
+font-family:Georgia,serif;
+font-weight:normal;
+}
+th.blank_montitle {
+font-size:120%;
+font-family:Verdana,serif;
+font-weight:normal;
+text-align:right;
+color:black;
+background-color:transparent;
+padding:0.1em 0.2em 0 0.2em;
+}
+th.blank_light, th.blank_lightmarked {
+font-size:80%;
+font-family:Verdana,serif;
+font-weight:bold;
+text-align:;
+color:black;
+background-color:transparent;
+padding:0.2em 0.2em 0.3em 0.2em;
+}
+th.blank_dark, th.blank_darkmarked {
+font-size:80%;
+font-family:Verdana,serif;
+font-weight:bold;
+text-align:center;
+color:black;
+background-color:transparent;
+padding:0.2em 0.2em 0.3em 0.2em;
+}
+td.blank_light, td.blank_lightmarked {
+font-size:80%;
+font-family:Verdana,serif;
+font-weight:normal;
+text-align:center;
+color:black;
+background-color:transparent;
+padding:0.2em 0.2em 0.3em 0.2em;
+}
+td.blank_dark, td.blank_darkmarked {
+font-size:80%;
+font-family:Verdana,serif;
+font-weight:normal;
+text-align:center;
+color:black;
+background-color:transparent;
+padding:0.2em 0.2em 0.3em 0.2em;
+}
+th.blank_darkmarked, th.blank_lightmarked, td.blank_darkmarked, td.blank_lightmarked {
+color:#990000;
+}
+td.blank_today {
+font-size:80%;
+font-family:Verdana,serif;
+font-weight:bold;
+text-align:center;
+color:inherit;
+background-color:transparent;
+padding:0.2em 0.2em 0.3em 0.2em;
+border:1px solid #ee0000;
+}
+a.blank_datelink {
+text-decoration:underline;
+color:#3333ff;
+background-color:transparent;
+display:block;
+}
+a.blank_titleddatelink {
+color:black;
+background-color:transparent;
+font-weight:bold;
+}
+em.blank_titleddate {
+font-weight:bold;
+font-style:normal ;
+color:#009900;
+background-color:transparent;
+}
+td.blank_monthcell {
+padding-bottom:1em;
+padding-right:1em;
+}
+td.blank_monthlastcell {
+padding-bottom:1em;
+}
