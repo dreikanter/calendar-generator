@@ -11,11 +11,11 @@
 
 Сгенерированный календарь может выглядеть, например, так:
 
-![Generated calendar](/dreikanter/calendar-generator/screenshots/2-calendar-screenshot.png)
+![Generated calendar](/dreikanter/calendar-generator/raw/master/screenshots/2-calendar-screenshot.png)
 
 Оформление несложно кастомизировать:
 
-![Customized calendars](/dreikanter/calendar-generator/screenshots/3-calendar-screenshot.png)
+![Customized calendars](/dreikanter/calendar-generator/raw/master/screenshots/3-calendar-screenshot.png)
 
 Комплект поставки:
 
